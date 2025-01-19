@@ -1,6 +1,9 @@
-on: push
-# TODO: only when pushing to main branch
-#if: github.ref != 'refs/heads/main'
+name: publish
+on:
+  push:
+    # branches:
+    #   - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
