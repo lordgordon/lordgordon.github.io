@@ -1,8 +1,9 @@
 +++
 title = "Méailles Train Station"
+description = "Located at 900 meters high, the historical train station of Meailles is nowadays daily served by the \"Chemin de Provence\" line. This line is known as \"train des pignes\". The station is placed in a very quite and natural valley, near the Var river."
 date = 2012-08-18
 [taxonomies]
-tags = ["Imported", "Nikon", "France", "Côte d'Azur"]
+tags = ["Imported", "Nikon", "France", "Côte d'Azur", "Landscape"]
 [extra]
 thumbnail = "0.jpg"
 +++

@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Tales From a Fantasy Land"
+description = "A small brook seems a stolen landscape from a fantasy story."
+date = 2013-03-27
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France", "Côte d'Azur", "Landscape"]
 [extra]
 thumbnail = "0.jpg"
 +++

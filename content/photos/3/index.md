@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Belgian Profile"
+description = "Taken at Magritte Museum, Bruxelles."
+date = 2012-11-03
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Belgium", "Artistic"]
 [extra]
 thumbnail = "0.jpg"
 +++

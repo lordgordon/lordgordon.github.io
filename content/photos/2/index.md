@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "A lonely and abandoned house in the golden field"
+description = "With small lavanda fields in background."
+date = 2012-06-24
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France", "Côte d'Azur", "Landscape"]
 [extra]
 thumbnail = "0.jpg"
 +++
