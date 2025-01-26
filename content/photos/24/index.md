@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Five Minutes to Go"
+description = "An Airbus Star Alliance airplane is ready to take-off at Brussel National Airport."
+date = 2013-07-07
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Belgium", "Transports"]
 [extra]
 thumbnail = "0.jpg"
 +++

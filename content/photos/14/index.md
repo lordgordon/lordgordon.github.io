@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Hey You!"
+description = "Yes, I'm looking you. Please, can I run free or I have to wait? She is my dog Beatrice."
+date = 2013-04-07
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Animals", "Portrait"]
 [extra]
 thumbnail = "0.jpg"
 +++

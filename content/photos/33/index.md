@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Vieil Antibes: A View"
+description = "The picturesque old town of Antibes as seen from the cliffs."
+date = 2013-09-08
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France", "City", "Landscape", "Sea", "Côte d'Azur"]
 [extra]
 thumbnail = "0.jpg"
 +++

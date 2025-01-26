@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Beyond the Wooden Door"
+description = "Taken at the abandoned Citadelle of Entrevaux, this is one of the jail's cell used during First World War. No HDR."
+date = 2013-08-04
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France"]
 [extra]
 thumbnail = "0.jpg"
 +++
