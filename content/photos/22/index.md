@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Ready for the Show"
+description = "At JW Marrriot hotel in Cannes all is ready for the big fireworks show that will take place in the night as part of the International Fireworks Competition."
+date = 2013-07-21
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France", "Côte d'Azur"]
 [extra]
 thumbnail = "0.jpg"
 +++

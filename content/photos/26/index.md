@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Summer Mediterranean Bouquet"
+description = "A mediterranean bush in a summer day."
+date = 2013-07-20
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Nature"]
 [extra]
 thumbnail = "0.jpg"
 +++

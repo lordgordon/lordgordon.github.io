@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Rocks"
+description = ""
+date = 2013-09-13
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "France", "Landscape", "Sea", "Côte d'Azur"]
 [extra]
 thumbnail = "0.jpg"
 +++

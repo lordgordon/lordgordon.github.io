@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "A Classical View of Gent"
+description = "This is one of the most classical spot of Gent, taken in a bright day."
+date = 2013-07-07
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Belgium", "City"]
 [extra]
 thumbnail = "0.jpg"
 +++
