@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "The Old Castle of Vezio"
+description = "This is a view of the Vezio old village and its restored castle on the Lake Como, with the Alps in the background."
+date = 2014-04-19
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Landscape", "Italy", "Lake Como"]
 [extra]
 thumbnail = "0.jpg"
 +++

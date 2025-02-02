@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Trainspotting"
+description = "A local train passing an old level crossing just after the Po bridge between Cremona and Castelvetro Piacentino."
+date = 2014-04-14
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Transports", "Cremona", "Italy"]
 [extra]
 thumbnail = "0.jpg"
 +++

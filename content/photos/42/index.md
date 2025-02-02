@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "The Po River With a Bridge"
+description = "Cremona's landscapes III (The Po River With a Bridge). A winter scene in the Po valley. Hoya ND400 + Lee filter nd graduated soft 0.6."
+date = 2014-02-06
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "Nikon", "Landscape", "Cremona", "Italy", "B&W"]
 [extra]
 thumbnail = "0.jpg"
 +++
