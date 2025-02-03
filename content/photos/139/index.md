@@ -1,9 +1,8 @@
 +++
 title = "to be imported"
-description = ""
 date = 2000-01-01
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported"]
 [extra]
 thumbnail = "0.jpg"
 +++

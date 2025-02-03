@@ -1,9 +1,9 @@
 +++
-title = "to be imported"
-description = ""
-date = 2000-01-01
+title = "Top view"
+description = "Esztergom’s Basilica from a Cessna."
+date = 2019-10-26
 [taxonomies]
-tags = ["Imported", "Nikon"]
+tags = ["Imported", "iPhone 11", "Landscape", "Hungary", "Architecture", "Aerial", "City"]
 [extra]
 thumbnail = "0.jpg"
 +++
