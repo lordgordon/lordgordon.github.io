@@ -1,8 +1,8 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Meditation"
+date = 2020-07-25
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 11", "Landscape", "Abruzzo", "Italy", "People"]
 [extra]
 thumbnail = "0.jpg"
 +++

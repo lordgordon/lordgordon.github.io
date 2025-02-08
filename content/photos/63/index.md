@@ -1,8 +1,8 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Classic London Tube"
+date = 2020-02-18
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 11", "London", "UK", "Transport", "City"]
 [extra]
 thumbnail = "0.jpg"
 +++
