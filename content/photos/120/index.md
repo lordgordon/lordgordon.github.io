@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Land"
+description = "This landscape will be the Olympic village for MIlano Cortina 2026."
+date = 2021-10-17
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 12 Pro", "Landscape", "Italy", "Milano", "City", "Architecture", "B&W"]
 [extra]
 thumbnail = "0.jpg"
 +++

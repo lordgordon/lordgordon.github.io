@@ -1,8 +1,9 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Sushi Dessert"
+description = "An onigiri-like dessert ice cream."
+date = 2021-09-18
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 12 Pro", "Food & Drinks"]
 [extra]
 thumbnail = "0.jpg"
 +++

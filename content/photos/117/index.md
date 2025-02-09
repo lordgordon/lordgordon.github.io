@@ -1,8 +1,8 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "The Castle and the Eagle (Rocca D'Olgiso)"
+date = 2021-10-24
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 12 Pro", "Landscape", "Italy", "Val Tidone"]
 [extra]
 thumbnail = "0.jpg"
 +++
