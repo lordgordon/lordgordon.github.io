@@ -1,8 +1,8 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Scottish Breakfast"
+date = 2022-04-19
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 12 Pro", "UK", "Scotland", "Food & Drinks"]
 [extra]
 thumbnail = "0.jpg"
 +++

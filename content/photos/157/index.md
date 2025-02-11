@@ -1,8 +1,8 @@
 +++
-title = "to be imported"
-date = 2000-01-01
+title = "Scottish Cows in the Highlands"
+date = 2022-04-16
 [taxonomies]
-tags = ["Imported"]
+tags = ["Imported", "iPhone 12 Pro", "UK", "Animals", "Nature"]
 [extra]
 thumbnail = "0.jpg"
 +++
