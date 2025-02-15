@@ -1,0 +1,3 @@
+[submodule "themes/zallery"]
+	path = themes/zallery
+	url = https://github.com/gamingrobot/zallery.git
