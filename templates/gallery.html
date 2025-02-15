@@ -1,0 +1,15 @@
+{% extends "zallery/templates/gallery.html" %}
+<!-- Custom gallery from zallery with reverse order -->
+
+{% block content %}
+<div class=page>
+{% block gallery_header %}
+{% endblock gallery_header %}
+<section class=gallery-view>
+{% for page in section.pages | reverse -%}
+{% include "partials/thumbnail.html" %}
+{%- endfor %}
+</section>
+{% include "partials/credit.html" %}
+</div>
+{% endblock content %}
