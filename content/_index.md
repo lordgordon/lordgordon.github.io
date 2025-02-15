@@ -1,5 +1,5 @@
 +++
 title = "Home"
 description = "Home"
-sort_by = "date"
+sort_by = "slug"
 +++

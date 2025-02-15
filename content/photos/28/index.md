@@ -2,7 +2,7 @@
 title = "The Green Valley"
 date = 2013-08-14
 [taxonomies]
-tags = ["Imported", "Nikon", "France", "Landscape", "Tilt-shift"]
+tags = ["Imported", "Nikon d7000", "France", "Landscape", "Tilt-shift"]
 [extra]
 thumbnail = "0.jpg"
 +++

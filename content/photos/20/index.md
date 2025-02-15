@@ -2,7 +2,7 @@
 title = "Picture In Picture"
 date = 2013-07-06
 [taxonomies]
-tags = ["Imported", "Nikon", "People", "Belgium"]
+tags = ["Imported", "Nikon d7000", "People", "Belgium"]
 [extra]
 thumbnail = "0.jpg"
 +++

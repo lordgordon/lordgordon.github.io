@@ -3,7 +3,7 @@ title = "Hey You!"
 description = "Yes, I'm looking you. Please, can I run free or I have to wait? She is my dog Beatrice."
 date = 2013-04-07
 [taxonomies]
-tags = ["Imported", "Nikon", "Animals", "Portrait"]
+tags = ["Imported", "Nikon d7000", "Animals", "Portrait"]
 [extra]
 thumbnail = "0.jpg"
 +++

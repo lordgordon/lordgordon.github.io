@@ -3,7 +3,7 @@ title = "Make-Up"
 description = "It's time to make-up, softly and gently."
 date = 2013-07-06
 [taxonomies]
-tags = ["Imported", "Nikon", "Portrait", "People"]
+tags = ["Imported", "Nikon d7000", "Portrait", "People"]
 [extra]
 thumbnail = "0.jpg"
 +++
