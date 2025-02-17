@@ -1,6 +1,6 @@
 +++
 title = "Ready for The Blue"
-description = "Simply because free men loves the sea."
+description = "Simply because free men love the sea."
 date = 2012-04-01
 [taxonomies]
 tags = ["Imported", "Nikon d7000", "France", "Côte d'Azur", "Sea"]
