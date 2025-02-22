@@ -2,7 +2,7 @@
 title = ""
 date = 2025-01-01
 [taxonomies]
-tags = ["iPhone 12 Pro"]
+tags = ["iPhone 14 Pro"]
 [extra]
 thumbnail = "0.jpg"
 +++
