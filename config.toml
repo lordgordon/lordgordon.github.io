@@ -27,6 +27,7 @@ highlight_code = true
 
 [extra]
 menu = [
+    {url = "/tags", name = "All Tags"},
     {url = "https://github.com/lordgordon", name = "GitHub"},
 ]
 

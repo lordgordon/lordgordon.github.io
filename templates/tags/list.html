@@ -1,0 +1,16 @@
+{% extends "zallery/templates/tags/list.html" %}
+<!-- Custom tag list from zallery -->
+
+{% block content %}
+<div class=page>
+    <h1>Tags</h1>
+    <div>
+        {% for term in terms %}
+            <a href={{ term.permalink }} />{{ term.name }}</a>
+            {% if loop.last == false %}
+            &nbsp-&nbsp
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endblock content %}
