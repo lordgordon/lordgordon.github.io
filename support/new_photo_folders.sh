@@ -6,8 +6,8 @@
 #     ./support/new_photo_folders.sh
 #
 
-START=194
-END=204
+START=203
+END=225
 
 for ((i=START; i<=END; i++)); do
   echo "Created folder: ${i}"
